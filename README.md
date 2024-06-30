@@ -90,10 +90,7 @@ A aplicação estará disponível em `http://localhost:8080`.
 - **MongoDB**
 - **Maven**
 
-## Autor
-
-- [**Michelle Gomes**](https://github.com/michellegomes85)
-
-## Licença
+## Licença / Autor
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/michelleGomes85/WorkshopSpringBoot3-mongodb/blob/main/LICENSE) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michellegomes85)
