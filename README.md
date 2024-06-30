@@ -96,4 +96,4 @@ A aplicação estará disponível em `http://localhost:8080`.
 
 ## Licença
 
- 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/michelleGomes85/WorkshopSpringBoot3-mongodb/blob/main/LICENSE) 
